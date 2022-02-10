@@ -3,9 +3,9 @@
  * @author your name (you@domain.com)
  * @brief Header file for gray coding method
  * @version 0.1
- * @date 2021-04-09
+ * @date 2022-10-022021-04-09
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #include <stdio.h>

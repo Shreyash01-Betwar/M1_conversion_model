@@ -3,9 +3,9 @@
  * @author your name (you@domain.com)
  * @brief Unity testing for Number System Converter
  * @version 0.1
- * @date 2021-04-10
+ * @date 2022-10-02
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #include <string.h>

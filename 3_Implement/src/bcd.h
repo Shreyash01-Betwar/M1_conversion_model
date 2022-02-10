@@ -3,9 +3,9 @@
  * @author your name (you@domain.com)
  * @brief Header file for Binary Coded Decimal (BCD) method
  * @version 0.1
- * @date 2021-04-08
+ * @date 2022-10-02
  * 
- * @copyright Copyright (c) 2021
+ * @copyright Copyright (c) 2022
  * 
  */
 #include <stdio.h>
